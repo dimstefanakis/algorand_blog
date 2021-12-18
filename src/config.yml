@@ -1,0 +1,12 @@
+registrar: "alice"
+
+alice:
+        mnemonic: "<MNEMONIC HERE>"
+
+bob:
+        mnemonic: "<MNEMONIC HERE>"
+
+charlie:
+        mnemonic: "<MNEMONIC HERE>"
+
+APP_ID: -1
